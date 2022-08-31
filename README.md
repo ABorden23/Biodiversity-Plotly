@@ -3,6 +3,18 @@
 [Link to Deployed Site](https://aborden23.github.io/Biodiversity-Plotly/)
 
 
+## Resources:
+
+Data:
+
+samples.json
+Software
+
+## Software :
+
+JavaScript
+Plotly
+HTML/CSS
 
 
 
