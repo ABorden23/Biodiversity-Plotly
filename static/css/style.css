@@ -1,1 +1,8 @@
 /* Style Sheet */
+
+.jumbotron {
+    color: whitesmoke;
+    background-image: url("../images/bacteria.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
