@@ -1,4 +1,4 @@
-# Biodiversity-Plotly
+# Biodiversity in Bellybuttons-Plotly
 
 [Link to Deployed Site](https://aborden23.github.io/Biodiversity-Plotly/)
 
