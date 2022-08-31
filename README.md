@@ -2,21 +2,32 @@
 
 [Link to Deployed Site](https://aborden23.github.io/Biodiversity-Plotly/)
 
+## Interactive Dashboards
 
-## Resources:
+Bar Chart
 
-Data:
+<img src="https://github.com/ABorden23/Biodiversity-Plotly/blob/main/static/images/Top%20Ten%20Bacteria%20Bar%20Chart.jpeg%20.png" width="500" height="500">
 
-samples.json
-Software
+Bubble Chart
 
-## Software :
+<img src="https://github.com/ABorden23/Biodiversity-Plotly/blob/main/static/images/Bubble%20Chart.jpeg" width="500" height="500">
 
-JavaScript
-Plotly
-HTML/CSS
+Gauge Chart
+
+<img src="https://github.com/ABorden23/Biodiversity-Plotly/blob/main/static/images/Gauge.jpeg" width="500" height="500">
 
 
+## Resources
+
+*Data* 
+
+* samples.json
+
+*Software*
+
+* JavaScript
+* Plotly
+* HTML/CSS
 
 ## Customizations:
 
